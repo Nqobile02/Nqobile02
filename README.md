@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Nqobile Dhladhla 👋
 I am an Aspiring Front-End Developer currently focused on mastering the art of translating professional designs into clean, functional code. I enjoy the challenge of building "pixel-perfect" layouts and diving deep into CSS architecture.
 
 🚀 What I’m working on</br>
