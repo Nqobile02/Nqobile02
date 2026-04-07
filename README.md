@@ -1,18 +1,18 @@
 ## Hi there, I'm Nqobile Dhladhla 👋
 I am an Aspiring Front-End Developer currently focused on mastering the art of translating professional designs into clean, functional code. I enjoy the challenge of building "pixel-perfect" layouts and diving deep into CSS architecture.
 
-🚀 What I’m working on</br>
+🚀 What I’m working on<br/>
 💻 Commercial Projects: Currently building a professional site for a hair and lash business.
 
 🎨 Design Replications: Polishing my skills by recreating complex layouts from Frontend Mentor and Dribbble.
 
 🛠️ Portfolio: Developing a central hub to showcase my growth and development milestones.
 
-📈 My Learning Journey</br>
+📈 My Learning Journey<br/>
 I’m currently sharpening my JavaScript skills through freeCodeCamp and pushing myself to build data visualizations (like timelines and charts) using pure CSS. I believe in understanding how things work under the hood before reaching for heavy libraries.
 
 
-## 🌐 Socials:</br>
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nqobile-success-dhladhla-929949183) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nqobilesuccess02@gmail.com) 
 
 # 💻 Tech Stack:
